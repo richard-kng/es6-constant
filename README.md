@@ -1,6 +1,6 @@
 es6-constant [![Build Status](https://travis-ci.org/richard-kng/es6-constant.svg?branch=master)](https://travis-ci.org/richard-kng/es6-constant)
 ============
-__es6-constant__
+__Provides a feature to use real constants in classes. ECMAScript 6.__
 
 To support this project, you can at [the support page](http://richard-kng.github.io/support/) by supporting the developer.
 

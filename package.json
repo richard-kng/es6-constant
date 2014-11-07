@@ -1,7 +1,7 @@
 {
   "name": "es6-constant",
-  "description": "",
-  "version": "1.0.0",
+  "description": "Provides a feature to use real constants in classes. ECMAScript 6.",
+  "version": "1.0.1",
   "homepage": "https://github.com/richard-kng/es6-constant",
   "author": "Richard KnG <richrdkng@gmail.com> (https://github.com/richard-kng)",
   "repository": {
@@ -41,6 +41,7 @@
     "javascript",
     "js",
     "production",
+    "utility",
     "tool"
   ],
   "directories": {
