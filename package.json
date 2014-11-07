@@ -1,7 +1,7 @@
 {
   "name": "es6-constant",
   "description": "Provides a feature to use real constants in classes. ECMAScript 6.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/richard-kng/es6-constant",
   "author": "Richard KnG <richrdkng@gmail.com> (https://github.com/richard-kng)",
   "repository": {
@@ -17,9 +17,7 @@
     "build": "npm install && grunt build",
     "test": "grunt --verbose"
   },
-  "dependencies": {
-    "jquery": "~2.1.1"
-  },
+  "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.5",
     "grunt-banner": "~0.2.3",
