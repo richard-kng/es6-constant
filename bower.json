@@ -1,0 +1,39 @@
+{
+  "name": "es6-constant",
+  "description": "",
+  "homepage": "https://github.com/richard-kng/es6-constant",
+  "repository": "git://github.com/richard-kng/es6-constant.git",
+  "keywords": [
+    "es6",
+    "ecmascript 6",
+    "es6-constant",
+    "es6.constant",
+    "javascript",
+    "js",
+    "production",
+    "tool"
+  ],
+  "authors": [
+    "Richard KnG <richrdkng@gmail.com> (https://github.com/richard-kng)"
+  ],
+  "main": "es6.constant",
+  "ignore": [
+    "lib",
+    "node_modules",
+    "src",
+    "test",
+    "*.yml",
+    ".gitignore",
+    ".gitattributes",
+    ".jshintrc",
+    "Gruntfile*",
+    "*.json"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  },
+  "devDependencies": {},
+  "license": [
+    "MIT"
+  ]
+}
