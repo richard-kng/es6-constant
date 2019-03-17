@@ -1,4 +1,4 @@
-es6-constant [![Build Status](https://travis-ci.org/richard-kng/es6-constant.svg?branch=master)](https://travis-ci.org/richard-kng/es6-constant)
+es6-constant [![Build Status](https://travis-ci.org/richard-kng/es6-constant.svg?branch=master)](https://travis-ci.org/richard-kng/es6-constant) [![Greenkeeper badge](https://badges.greenkeeper.io/richrdkng/es6-constant.svg)](https://greenkeeper.io/)
 ============
 __Provides a feature to use real constants in classes. ECMAScript 6.__
 
